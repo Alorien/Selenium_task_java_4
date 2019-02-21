@@ -1,0 +1,13 @@
+pages\BasePage.class
+pages\InsurationPage.class
+pages\MinInsurationPage.class
+steps\MinInsurationPageSteps.class
+util\TestProperties.class
+util\AllureReporter.class
+steps\BaseSteps.class
+steps\ScenarioSteps.class
+pages\MainPage.class
+steps\SendAppPageSteps.class
+steps\MainPageSteps.class
+pages\SendAppPage.class
+steps\InsurationPageSteps.class

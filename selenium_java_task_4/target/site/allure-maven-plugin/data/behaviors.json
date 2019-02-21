@@ -1,0 +1,37 @@
+{
+  "features" : [ {
+    "title" : "Страхование",
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "86c558c17a153e88",
+      "title" : "Заявка на ДМС",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 1,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "56cd29cb11338d3e",
+        "name" : "Заявка на ДМС",
+        "title" : "Заявка на ДМС",
+        "time" : {
+          "start" : 1550769083345,
+          "stop" : 1550769107320,
+          "duration" : 23975
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
